@@ -1,0 +1,2 @@
+# SMSgo
+Welcome to SMSgo Software Desktop Application. This is a desktop application developed using java. Using this applicaion you can send SMS or OTP to any GSM (national or international), just you have to justify countary code with your contact number. In this project UTF-8 encoding scheme is used. To send a SMS you must need a API key so that specific number get the message from you, In this project TEXT LOCAL platform is used for API key and there are many other platforms that provide this feature or you can puchase a credits for SMS. Happy Coding !!
